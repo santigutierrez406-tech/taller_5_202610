@@ -5,15 +5,15 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<p> Predihit es una plataforma que predice el potencial de éxito de una canción antes de su lanzamiento, utilizando datos avanzados de audio, comportamiento del mercado y análisis de tendencias.</p>
+<p>Predihit es una plataforma que predice el potencial de éxito de una canción antes de su lanzamiento, utilizando datos avanzados de audio, comportamiento del mercado y análisis de tendencias.</p>
 
-<h2> :clipboard: Nuestro objetivos:</h2>
+<h2>Nuestros objetivos:</h2>
 
 - [ ] Reducir la incertidumbre en la industria musical
 - [ ] Optimizar decisiones de inversión en artistas y lanzamientos
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- <h2> :stop_sign: Problema</h2>
+ <h2>Problema</h2>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=60&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=La+industria+musical+es+bastante+impredecible)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@
 3. Decisiones basadas en intuición, no en datos
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h2> 💡 Solución</h2>
+<h2>Solución</h2>
 
 Usar **machine learning** para analizar patrones ocultos en la música y predecir:
 
@@ -33,7 +33,7 @@ Usar **machine learning** para analizar patrones ocultos en la música y predeci
 -  Cómo optimizar una canción antes de lanzarla
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h2> 🧠 ¿Cómo funciona?</h2>
+<h2>¿Cómo funciona?</h2>
 
 El modelo analiza múltiples variables como:
 
@@ -49,12 +49,12 @@ Y a partir de eso:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> ⚙️ Pipeline </h2>
+<h2>  Pipeline </h2>
 
 1. **Recolección de datos**  
    > Recolección de datos desde APIs o datasets (Spotify, Kaggle)
 
-2. **lispieza de datos**  
+2. **Limpieza de datos**  
    > Limpieza de datos, valores nulos, normalización
 
 3. **Analisis exploratorio**  
@@ -69,17 +69,17 @@ Y a partir de eso:
    > Random Forest  
    >  XGBoost  
 
-6. **Evaluacion**  
+6. **Evaluación**  
    Métricas:
    >  Accuracy  
    > Precision / Recall  
 
 7. **Predicción**  
    Output final:
-   > Probabilidad de HIT 🎯
+   > Probabilidad de HIT 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h2> 📊 ¿Qué hace especial este proyecto? </h2>
+<h2> ¿Qué hace especial este proyecto? </h2>
 No solo predice
 
  **explica el porqué**
@@ -95,12 +95,12 @@ No solo predice
 > *pero ahora también se puede predecir.*
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h2> 👨‍💻 Autores </h2>
+<h2> Autores </h2>
 
 - Juan Diego Moreno
 - Santiago Gutierrez 
-- Julian Andres Ruiz 
-
+- Julian Andres Ruiz
+ 
 **Fuentes de plantillas utilizadas:**
 
 <a href="https://github.com/Grigorij-Dudnik/Clean-Coder-AI?tab=readme-ov-file#readme">  <img src="https://cdn-icons-png.flaticon.com/512/483/483041.png"> </a>
